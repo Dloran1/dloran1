@@ -50,7 +50,7 @@ Full list also available on dev.to
 - Website: https://smartadvisoronline.com  
 - GitHub Pages: https://dloran1.github.io/en-gb/  
 - LinkedIn: https://www.linkedin.com/in/denys-shchur/  
-- Dev.to: https://dev.to/DenysShchur
+- Dev.to: https://dev.to/DenysShchurr
 
 ---
 
