@@ -1,57 +1,113 @@
 # 👋 Hi, I'm Denys Shchur
 
-**Technical SEO & Cybersecurity Writer**  
-Founder of **SmartAdvisorOnline**  
-I create multi-language content about VPNs, privacy, Wi-Fi security and modern encryption.
+I build practical VPN, privacy and streaming diagnostic projects.
+
+My main focus is helping users understand what is actually happening with their connection: IP visibility, DNS leaks, WebRTC exposure, IPv6 behaviour, speed loss, VPN routing issues and streaming compatibility problems.
 
 ---
 
-## 🔥 Current Projects
+## 🚀 Main Projects
 
-### **SmartAdvisorOnline**  
-Cybersecurity & VPN advisory platform  
-👉 https://smartadvisoronline.com
+### SmartAdvisorOnline
 
-### **VPN World (GitHub Pages)**  
-7-language VPN knowledge base  
-👉 https://dloran1.github.io/en-gb/
+SmartAdvisorOnline is a privacy, VPN and streaming diagnostics platform with practical tools and troubleshooting guides.
+
+Website:  
+https://smartadvisoronline.com
+
+Key tools:
+
+- VPN Leak Test  
+  https://smartadvisoronline.com/tools/leak-test.html
+
+- Speed Test / Speed Lab  
+  https://smartadvisoronline.com/tools/speed-test.html
+
+- Streaming VPN Test  
+  https://smartadvisoronline.com/tools/streaming-vpn-test.html
+
+The project combines technical explainers, hands-on diagnostics, privacy guides and real-world troubleshooting for users who want clearer answers than generic VPN reviews.
 
 ---
 
-## 📝 Recent Articles
+### VPN World
 
-I publish in-depth technical guides focused on practical security:
+VPN World is a multilingual VPN knowledge project focused on practical privacy, router setup, streaming access issues and VPN education across multiple locales.
 
-- **Why VPN Access Control Matters More Than Ever**  
-  https://smartadvisoronline.com/blog/vpn-access-control.html
+Website:  
+https://vpnworldhub.com
 
-- **Public Wi-Fi Protection: Modern Checklist**  
-  https://smartadvisoronline.com/blog/vpn-for-public-wifi.html
+GitHub Pages version:  
+https://dloran1.github.io/en-gb/
 
-- **Router-Level VPN Setup: Pros & Cons**  
-  https://smartadvisoronline.com/blog/vpn-on-router.html
+The project covers VPN use cases, router-level setup, DNS and IPv6 risks, streaming errors, privacy basics and country-specific VPN guidance.
 
-Full list also available on dev.to  
-👉 https://dev.to/DenysShchur
+---
+
+## 🧪 What I Work On
+
+- VPN leak testing
+- DNS, WebRTC and IPv6 diagnostics
+- Streaming VPN troubleshooting
+- Speed and connection quality testing
+- Router-level VPN setup guides
+- Technical SEO and content architecture
+- Multilingual privacy and VPN content
+- GitHub Pages based publishing workflows
+- Structured data, schema and entity-based SEO
+
+---
+
+## 📝 Recent Work
+
+Selected guides and resources:
+
+- VPN Leak Test  
+  https://smartadvisoronline.com/tools/leak-test.html
+
+- Streaming VPN Test  
+  https://smartadvisoronline.com/tools/streaming-vpn-test.html
+
+- Speed Test  
+  https://smartadvisoronline.com/tools/speed-test.html
+
+- VPN World Knowledge Base  
+  https://vpnworldhub.com/knowledge-base.html
+
+- SmartAdvisorOnline Knowledge Base  
+  https://smartadvisoronline.com/knowledge-base.html
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- Technical SEO, Entity SEO, content architecture  
-- Cybersecurity writing, VPN protocols (WireGuard, OpenVPN, NordLynx)  
-- Wi-Fi security, router configurations  
-- GitHub Pages, Markdown, HTML/CSS  
+- Technical SEO
+- Entity SEO
+- Content architecture
+- Cybersecurity writing
+- VPN protocols and routing concepts
+- DNS, WebRTC and IPv6 privacy testing
+- Streaming diagnostics
+- Markdown, HTML, CSS
+- GitHub Pages
+- Google Analytics
+- IP geolocation APIs
+- Static site publishing workflows
 
 ---
 
 ## 🌐 Profiles
 
-- Website: https://smartadvisoronline.com  
-- GitHub Pages: https://dloran1.github.io/en-gb/  
-- LinkedIn: https://www.linkedin.com/in/denys-shchur/  
+- SmartAdvisorOnline: https://smartadvisoronline.com
+- VPN World: https://vpnworldhub.com
+- GitHub Pages: https://dloran1.github.io/en-gb/
+- LinkedIn: https://www.linkedin.com/in/denys-shchurr/
 - Dev.to: https://dev.to/DenysShchurr
 
 ---
 
-### Thanks for visiting!  
+## 📌 About This Profile
+
+I use this GitHub profile to connect my public projects, technical writing and privacy tools in one place.
+
+Most of my work is focused on practical, user-facing diagnostics rather than abstract theory. The goal is simple: help people check their connection, understand the risk and choose the right next step.
